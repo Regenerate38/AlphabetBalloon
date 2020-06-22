@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: efb5454a05cd1544282e25bcbd744030
+timeCreated: 1554731290
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - balloon1: {fileID: 1714101754392468, guid: ba03636dab0721c488af9ae58ea792f3, type: 2}
+  - balloon2: {fileID: 1319621280569514, guid: a15ed31f6c7ea0745918e67c2c8f67d9, type: 2}
+  - balloon3: {fileID: 1923042603153176, guid: 40aeb5df1b42c7e4a97452bd7d355040, type: 2}
+  - balloon4: {fileID: 1290656414447616, guid: 002e30d6a84fbad4aa814f7ed1f50814, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
